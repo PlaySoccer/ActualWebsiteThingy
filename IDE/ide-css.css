@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Staatliches&display=swap');
+
+
+html{
+    margin: 0px;
+    padding: 0px 0px;
+    /* background-color: #fe0; */
+    /* background-color: #235; */
+    background-color: #234;
+}
+
+.hahaJS{
+    position: relative;
+    margin: 0px 0px;
+    border-radius: 2%;
+    border: none;
+    outline: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 15px 58px;
+    background-color: #f22;
+    color: white;
+    letter-spacing: 1.5px;
+    top: 510px;
+    left: -541px;
+    
+}
+
+.hahaJS:hover{
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.noobCSS{
+    position: relative;
+    margin: 0px 0px;
+    border-radius: 2%;
+    border: none;
+    outline: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 15px 52px;
+    background-color: #f22;
+    color: white;
+    letter-spacing: 1.5px;
+    top: 430px;
+    left: -367px;
+}
+
+.noobCSS:hover{
+    transition: 0.3s;
+    cursor: pointer;
+
+}
+
+.trolledHTML{
+     margin: 0px 0px;
+    position: relative;
+    top: 350px;
+    left: -191px;
+    padding: 15px 40px;
+    border: none;
+    border-radius: 2%;
+    background-color: #f22;
+    color: white;
+    font-size: 15px;
+    letter-spacing: 1.5px;
+    font-family: 'Source Sans Pro', sans-serif; 
+} 
+
+.trolledHTML:hover{
+    transition: 0.3s;
+    cursor: pointer;
+}
+.Files{
+    margin: 0px 0px;
+    position: relative;
+    color: white;
+    background-color: #27f;
+    outline: none;
+    border: none;
+    padding: 15px 75px;
+    font-family: 'Source Sans Pro', sans-serif;
+    top: 270px;
+    left: 4px;
+    text-transform: capitalize;
+    letter-spacing: 1.5px;
+    font-size: 15px;
+    border-radius: 2%;
+}
+
+.Files:hover{
+    transition: 0s;
+    cursor: pointer;
+}
+
+.run-code-div{
+    outline: 10px;
+    border: none;
+    outline: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    justify-content: center;
+    min-height: 100vh;
+    text-align: center;
+    align-items: center;
+    
+}
+
+
+h5{
+  position: relative;
+  top: 20px;
+}
+
+.Run-Code {
+    border-radius: 2%;
+    font-weight: bold;
+    color: white;
+    /* background-color: #48da1f #5e2; */
+    background-color: #b2f;
+    border: none;
+    outline: none;
+    position: relative;
+    top: 30px;
+    width: 200px;
+    height: 75px;
+    font-family: 'Source Sans  Pro', sans-serif;
+    letter-spacing: 3px;
+    margin: 0px;
+    /* box-shadow: inset 0 0 0 0 #b2f; */
+    
+}
+
+.Run-Code:hover {
+    transition: ease-out 0.4s ;
+    cursor: pointer;
+    box-shadow:inset 200px 0 0 0  #27f;
+}
+
+ /* textarea{
+    position:absolute;
+    margin: 0px;
+    padding: 0px 0px;
+    top: 200px;
+    left: 260px;
+    outline: none;
+} */
+
+textarea{
+    border:  5px  solid;
+    border-color: #0e7 ;
+    outline: none;
+}
+
+img{ /* lost track of what's what, but this is for the white cross*/
+    margin: 0px;
+    padding: 0px 0px;
+    position: relative;
+    top: -850px;
+    left: 1075px;
+} 
+
+.stopBeingSoDifficult{
+    display: inline-flex;
+    position: relative;
+    top: -500px;
+    left: 220px;
+    margin: 0px;
+}
+
+.disDoesNotEvenWork{
+    position: relative;
+    left: 890px;
+
+}
+
+
+header > h1{
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 40px;
+    margin: 0px;
+}
+
+header > .OHH{
+    font-family: 'Do Hyeon', sans-serif;
+    letter-spacing: 10px;
+    color: white;
+    padding: none;
+    margin: none;
+    position: relative;
+    top: -1100px;
+    left: 350px;
+}
+
+.pizzaz{
+    /* position: relative;
+    left: -125px;
+    top: 15px; */
+    top: 4px;
+    left: 0px;
+    margin: 0px;
+}
+
+.pizzaz:hover{
+    transition: 0.1s;
+    cursor: hover;
+}
+
+.bigERROR{
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+.ERRORBUTTON{
+    background-color: black;
+    outline: none;
+    border: none;
+    position: relative;
+    left: 1100px;
+    top: -900px;
+    padding: 50px 50px;
+}

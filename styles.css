@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap');
+html{ 
+    background-color: white;
+    background-image:url("https://cdn.deliciousbrains.com/content/uploads/2020/08/25104256/top-ide-wordpress-featured-img.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+header > h1{
+    text-align: center;
+    font-size: 55px;
+    font-family: 'Mukta', sans-serif;
+    text-decoration: underline;
+    color: white;
+    margin: 0;
+}
+
+h3{
+    color: white;
+    align-items: center;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: italic;
+    margin: 0;
+}
+
+
+button{
+    border: none;
+    outline: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.btn-div{
+    position: relative;
+    top: 550px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.Start-Coding{
+    font-family: 'Source Sans Pro', sans-serif;
+    letter-spacing: 3px;
+    width: 250px;
+    height: 75px;
+    /* background-color: rgb(255,0,0); */
+    background-color: purple;
+    border-radius: 3px;
+    /* box-shadow: inset 0 0 0 0 #f9e506; */
+    box-shadow: inset 0 0 0 0 red;
+    color: white;
+    text-decoration: bold; 
+    justify-content: center;
+    text-transform: uppercase;
+    font-size: large;
+}
+
+.Start-Coding:hover {
+    transition: ease-out 0.3s;
+    box-shadow: inset 250px 0 0 0 rgb(255,0,0);
+    cursor: pointer;   
+}
+
+
